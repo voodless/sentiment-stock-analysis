@@ -1,4 +1,4 @@
-# Sentiment-Stock Analysis 📈
+# Sentiment-Stock Analysis 
 
 Analyzes stock sentiment from financial subreddits using VADER (NLTK) and plots interactive visualizations with Yahoo Finance links.
 
@@ -8,7 +8,7 @@ Analyzes stock sentiment from financial subreddits using VADER (NLTK) and plots 
 - Interactive matplotlib plots with clickable Yahoo Finance links
 - Ticker search functionality
 
-## Setup 🛠️
+## Setup
 
 ### 1. Install Dependencies
 ```bash
