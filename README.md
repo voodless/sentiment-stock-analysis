@@ -28,10 +28,15 @@ python data_plot.py
 
 # File Structure
 .
-├── data_plot.py         # Visualization and interactive plot
+├── data_plot.py         # Visualization
+
 ├── web_scraper.py       # Reddit scraping and sentiment analysis
+
 ├── stockprices.py       # Finnhub stock data fetching
+
 ├── requirements.txt     # Dependencies
+
 ├── .env.example         # API key template
+
 └── .gitignore           # Ignores .env and virtualenv
 
