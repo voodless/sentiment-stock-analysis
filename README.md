@@ -41,10 +41,10 @@ python data_plot.py
 └── .gitignore           # Ignores .env and virtualenv
 
 # What I learnt
-Fundamentals of webscraping using praw
-A brief introduction to NLP 
-Data processing
+- Fundamentals of webscraping using praw
+- A brief introduction to NLP 
+- Data processing
 
 # What I could improve
-Improvements in UI ( add a hover for more information)
-Quality of data 
+- Improvements in UI ( add a hover for more information)
+- Quality of data 
