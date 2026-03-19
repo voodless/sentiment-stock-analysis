@@ -4,7 +4,7 @@ import os
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import re
 
-#initialising sentiment analyser globally to avoid repeated loading
+
 analyser = SentimentIntensityAnalyzer()
 
 load_dotenv() #Loading API credentials from .env file
