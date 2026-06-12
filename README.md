@@ -29,6 +29,7 @@ Copy `.env.example` to `.env` and add your Reddit API credentials
 ID=<your_reddit_client_id>
 SECRET=<your_reddit_client_secret>
 USER_AGENT=<your_reddit_user_agent>
+HF_TOKEn =<your_huggingface_token>
 ```
 
 ## Run
