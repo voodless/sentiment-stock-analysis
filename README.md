@@ -39,7 +39,7 @@ python main.py
 ```
 
 Outputs `quotes.csv` (a record of the run) and opens the interactive plot.
-`python plotting.py` re-plots the latest CSV without re-scraping.
+`python data_plot.py` re-plots the latest CSV without re-scraping.
 
 ## File structure
 
