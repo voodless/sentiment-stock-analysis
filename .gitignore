@@ -1,4 +1,5 @@
 .env
+chart.png
 sentiment.db
 quotes.csv
 venv/
