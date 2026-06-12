@@ -1,3 +1,5 @@
 .env
+sentiment.db
+quotes.csv
 venv/
 __pycache__/
